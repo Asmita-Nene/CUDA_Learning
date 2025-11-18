@@ -1,8 +1,9 @@
 ## Simple Ray Tracer 
 
-This project implements a ray tracer focusing on the core mechanics of ray generation and geometric intersection, excluding complex lighting models.
+This project implements a ray tracer focusing on the core mechanics of ray generation and geometric intersection, excluding external light sources.
 
 The primary goal is to understand the fundamentals of ray generation,  viewport projection, and ray–sphere intersection.
+This is implemented using CPU. It will be optimised for GPU using CUDA in the next section.
 
 ---
 
