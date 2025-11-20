@@ -1,4 +1,4 @@
-# Raytracer Using GPU (CUDA + Constant Memory)
+# Simple Raytracer Using GPU 
 
 This raytracer uses CUDA to accelerate image generation by executing the same raytracing logic as the CPU version, but in parallel across thousands of GPU threads. The rendering algorithm is the same as the CPU version; only the execution model is parallelized.  
 The following sections summarize the core CUDA concepts used in this implementation.
