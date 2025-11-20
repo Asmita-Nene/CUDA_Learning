@@ -72,5 +72,7 @@ CUDA uses function qualifiers to specify where a function runs and where it can 
 - Can be called only from **device (GPU) code**, except from kernels
 - Device functions are not entry points like kernels; they must be called from another GPU function.
 
-
+---
+## Output Image
+<img width="512" height="512" alt="raytracing_op (5)" src="https://github.com/user-attachments/assets/9fc4db98-9807-4bb2-a2b5-8f1cf7634f89" />
 
